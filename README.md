@@ -128,7 +128,7 @@ Seamlessly supported by all major Node.js frameworks and any Node.js application
 
 ![Framework supported](https://raw.githubusercontent.com/Unitech/PM2/development/pres/cluster-support.png)
 
-[More informations about how PM2 make clustering easy](https://keymetrics.io/2015/03/26/pm2-clustering-made-easy/)
+[More information about how PM2 make clustering easy](https://keymetrics.io/2015/03/26/pm2-clustering-made-easy/)
 
 ### Container Support
 
@@ -380,6 +380,6 @@ Thanks in advance and we hope that you like PM2!
 ## License
 
 PM2 is made available under the terms of the GNU Affero General Public License 3.0 (AGPL 3.0).
-We can deliver other licenses, for more informations [contact sales](mailto:sales@keymetrics.io).
+We can deliver other licenses, for more information [contact sales](mailto:sales@keymetrics.io).
 
 [![GA](https://ga-beacon.appspot.com/UA-51734350-7/pm2/readme?pixel&useReferer)](https://github.com/igrigorik/ga-beacon)
